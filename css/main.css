@@ -1,0 +1,25 @@
+hr{
+	size: 50px;
+	width: 100%;
+}
+body{
+	font-family: 'Lato', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Roboto', sans-serif;
+}
+
+.featured{
+	font-size: 25px;
+	font-weight: bold;
+}
+.name{
+	font-weight: bold;
+}
+
+.title-super{
+	font-size: 60px;
+}
+
+.title-logo{
+	margin-top: 20px;
+}
